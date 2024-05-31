@@ -1,7 +1,7 @@
 # SuperbOwl
 Turns ESP8266 into a WIFI controlled IR physical botnet. It can be used to turn on/off devices that are controlled by IR signals and triggered by the presence of a specific WIFI network. They will then change their own SSID to the name of the trigger network and begin broadcasting it to others in the area to trigger them as well.
 
-<img width="575" alt="Screen Shot 2023-01-03 at 7 28 02 AM" src="https://user-images.githubusercontent.com/112792126/210357380-11ab9fbc-fc09-4adb-a395-e5b7203804ab.png">
+![IMG_1330](https://github.com/ECTO-1A/SuperbOwl/assets/112792126/cce06009-27d2-444e-85f1-74ca5c52370e)
 
 CURRENTLY WORKING:
 - Web interface to set IR signal
