@@ -4,7 +4,6 @@ Turns ESP8266 into a WIFI controlled IR physical botnet. It can be used to turn 
 
 <img width="575" alt="Superb0wl v2" src="https://github.com/ECTO-1A/SuperbOwl/assets/112792126/cce06009-27d2-444e-85f1-74ca5c52370e">
 
-<img width="575"https://github.com/ECTO-1A/SuperbOwl/assets/112792126/cce06009-27d2-444e-85f1-74ca5c52370e.png">
 
 CURRENTLY WORKING:
 - Web interface to set IR signal
