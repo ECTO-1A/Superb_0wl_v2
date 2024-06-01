@@ -1,5 +1,5 @@
 
-# Superb_0wl_v2
+# Superb_0wl_v2 June 2024
 
 Transform your ESP8266 into a WiFi-controlled IR blaster, creating a networked physical botnet. This project allows the ESP8266 devices to turn on/off IR-controlled appliances by detecting specific WiFi networks. Upon activation, each device changes its SSID to the triggering network's name and starts broadcasting it, allowing it to activate other nearby devices in a chain reaction.
 
